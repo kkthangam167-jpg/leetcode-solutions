@@ -9,5 +9,6 @@ Problems included:
 - Palindrome Number
 - Roman to Integer
 - Longest Common Prefix
+- Add Two Numbers
 
 This repository is created for practice and learning purpose.
